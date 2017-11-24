@@ -2,7 +2,7 @@
 
 当在严格模式中使用 Vuex 时，在属于 Vuex 的 state 上使用 `v-model` 会比较棘手：
 
-``` html
+``` html666666666666666666666666666666666666666666666666
 <input v-model="obj.message">
 ```
 
